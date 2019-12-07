@@ -1,0 +1,7 @@
+# IRDetector-Gbunza
+## License: MIT License
+
+Quad IR detector with hysteresis for IO4-IR-Detector-GBunza board on SPCoast.com
+
+  * Add LCD display support
+
